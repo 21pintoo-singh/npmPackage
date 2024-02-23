@@ -1,0 +1,15 @@
+{
+  "name": "@pi2singh/pintoosingh",
+  "version": "1.0.1",
+  "description": "this is my personal package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "pintoosingh"
+  ],
+  "author": "PintooSingh",
+  "license": "ISC",
+  "devDependencies": {}
+}
