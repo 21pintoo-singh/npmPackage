@@ -1,6 +1,6 @@
 {
   "name": "@pi2singh/pintoosingh",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this is my personal package",
   "main": "index.js",
   "scripts": {
