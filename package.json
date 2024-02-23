@@ -1,5 +1,5 @@
 {
-  "name": "@pi2singh/pintoosingh",
+  "name": "@pintoosingh/pintoosingh",
   "version": "1.0.2",
   "description": "this is my personal package",
   "main": "index.js",
@@ -11,5 +11,7 @@
   ],
   "author": "PintooSingh",
   "license": "ISC",
-  "devDependencies": {}
+  "dependencies": {
+    "pintoosingh": "^1.0.0"
+  }
 }
